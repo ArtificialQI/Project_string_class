@@ -143,6 +143,7 @@ private:
 
 int main()
 {
+	cout << "git" << endl;
 
 	my_string str1("Hello");
 	my_string str2("World");
